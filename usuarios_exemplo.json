@@ -1,0 +1,10 @@
+{
+    "usuario@exemplo.com": {
+        "e-mail": "usuario@exemplo.com",
+        "nome": "Usuario Teste",
+        "idade": 20,
+        "aporte": 1000.0,
+        "senha": "senha_teste",
+        "historico": {}
+    }
+}
